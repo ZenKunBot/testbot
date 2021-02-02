@@ -1,6 +1,6 @@
 /*
 * Tambahin nama author lah
-* Author nya Radya, Farid, AGUSZ PAKEZ
+* Author nya ZenKun
 * Tambahin ya zhayank
 * Jan numpang nama doank
 * Baca readme nya biar gk tanya tanya
@@ -78,9 +78,9 @@ const { othermenu } require('./database/menu/othermenu')*/
 /******LOAD OF VCARD INPUT******/
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:AGUSZ PAKEZ Admin\n' // full name
+            + 'FN:ZenKun Admin\n' // full name
             + 'ORG:Owner Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=6289694354384:+62 896-9435-4384\n' // ID do WhatsApp + número de telefone
+            + 'TEL;type=CELL;type=VOICE;waid=6281216563395:+62 812-1656-3395\n' // ID do WhatsApp + número de telefone
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
