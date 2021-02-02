@@ -1,13 +1,13 @@
 const help = (prefix) => {
 	return `
-「 *APBOT* 」
+「 *ZENBOT* 」
 
 ◪ *info OWNER*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator : AGUSZ PAKEZ
-  ❏ YOUTUBE: https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ
+  ❏ Creator : SHADAM SPEKTRUM
+  ❏ YOUTUBE: https://youtube.com/
           *RULES*
-SEBELUM GUNAKAN APBOT ANDA HARUS DAFTAR DULU,DAN JANGAN SPAM
+SEBELUM GUNAKAN ZENBOT ANDA HARUS DAFTAR DULU,DAN JANGAN SPAM
 
 ◪ *TENTANG BOT*
   │
