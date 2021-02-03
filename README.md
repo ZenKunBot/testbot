@@ -7,9 +7,9 @@
 
 - 👀 I'm currently focusing on **JavaScript**.
 
-- 📝 I'm currently working on [`axfcap`](https://github.com/axcap)
+- 📝 I'm currently working on [`ZenKunBot`](https://github.com/ZenKunBot)
 
-- 👥 Subscribe channel kami [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
+- 👥 Subscribe channel kami [`YOUTUBE`](not yt)
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
 
